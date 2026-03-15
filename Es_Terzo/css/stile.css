@@ -1,0 +1,56 @@
+html, body { margin: 0; padding: 0; }
+
+body {
+    background-image: url('../img/room88.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+h1 {
+    font-family: 'Rubik Vinyl', cursive;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+}
+
+a { text-decoration: none; }
+a:hover { color: #333; text-decoration: underline; }
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+/* Header */
+#header {
+    width: 920px;
+    padding: 20px;
+    background: transparent;
+}
+#header h1 {
+    color: #000000;
+    font-size: 70px;
+}
+
+/* Contenuto evidenziato (3 colonne testo) */
+.item-evi {
+    width: 280px;
+    padding: 20px;
+    float: left;
+    color: black;
+}
+
+/* Clear */
+.clear {
+    width: 100%;
+    clear: both;
+    height: 1px;
+    background: #eee;
+}
