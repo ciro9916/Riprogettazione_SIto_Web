@@ -18,7 +18,7 @@ Mentre la sezione delle immagini e la selezione dei contenuti in evidenza sono r
 
 * **Semplificazione:** Rimozione del messaggio *full-width*, dei link statici e degli articoli pre-caricati.
 * **Interattività:** * Sostituzione degli articoli statici con **due immagini interattive** che rivelano il contenuto solo tramite interazione .
-    * Inserimento di un **pulsante informativo** dedicato.
+     Inserimento di un **pulsante informativo** dedicato.
 * **Footer:** Aggiornato con l'integrazione di icone e link ai **social personali**.
 
 ---
@@ -27,7 +27,5 @@ Mentre la sezione delle immagini e la selezione dei contenuti in evidenza sono r
 
 Così è come si presenta il sito modernizzato: .
 
-|<img width="1920" height="2096" alt="image" src="https://github.com/user-attachments/assets/a9782fb0-2382-4203-96f0-233a43d20215" />
+<img width="1920" height="2096" alt="image" src="https://github.com/user-attachments/assets/a9782fb0-2382-4203-96f0-233a43d20215" />
 
-
----.
